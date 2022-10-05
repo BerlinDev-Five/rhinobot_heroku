@@ -1,7 +1,7 @@
 {
   "name": "Discord MusicBot",
   "description": "RhinoBot Discord music bot",
-  "repository": "https://github.com/helionmusic/rhinobot_heroku",
+  "repository": "https://github.com/BerlinDev-Five/rhinobot_heroku",
   "buildpacks": [
     {
       "url": "heroku/python"

@@ -1,4 +1,5 @@
 # MusicBot for Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BerlinDev-Five/rhinobot_heroku/tree/master)
 
 ## IMPORTANT NOTICE
 Heroku will be ending its free services on November 28 2022. You're better off looking for alternate solutions.
